@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>down.svg</file>
+        <file>up.svg</file>
+        <file>down_disabled.svg</file>
+        <file>up_disabled.svg</file>
+    </qresource>
+</RCC>
