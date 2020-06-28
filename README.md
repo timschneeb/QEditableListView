@@ -12,3 +12,7 @@ Copy the `QEditableListView` subdirectory from this repository into your project
 ```cmake
 include(QEditableListView/QEditableListView.pri)
 ```
+
+### Screenshot
+
+![scr](screenshot.png)
