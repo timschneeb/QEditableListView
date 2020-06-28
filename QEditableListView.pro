@@ -24,7 +24,7 @@ CONFIG += c++11
 
 SOURCES += main.cpp
 
-include(QEditableListView.pri)
+include(QEditableListView/QEditableListView.pri)
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
